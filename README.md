@@ -1,6 +1,6 @@
 # first-three-project
 
-<p>This is my first attempt at trying out Vite, three.js and GreenSock. Vannilla JS was used here.</p>
+<p>This is my first attempt at trying out Vite, three.js and GreenSock. Vanilla JS was used here.</p>
 
 ## Technology Used
 
@@ -16,4 +16,5 @@
 
 ### Note
 
-As of now the site isnt fully responsive but that will be fixed soon and more features will also be added. 
+As of now the site isnt fully responsive but that will be fixed soon and more features will also be added.
+Also for some reason the canvas and css code arent being rendered when deployed to GitHub pages so the best course of action to view this project would be to fork the repo and install all the dependencies locally. 
